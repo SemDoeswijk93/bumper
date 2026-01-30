@@ -19,6 +19,6 @@ In 2.2 heb ik een shooting line toegevoegd zodat je ziet waar je mikt.
 
 ## 3.1 
 
-![shootconsole](media/shoot.gif) 
+![shootconsole](media/score.gif) 
 
 in 3.1 werken scores zoals het moet in de console. 
