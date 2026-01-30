@@ -16,3 +16,9 @@ In 2.1 heb ik physics toegevoegt aan de bal zodat het botst met de grotere balle
 ![shootline](media/shootingline.gif) 
 
 In 2.2 heb ik een shooting line toegevoegd zodat je ziet waar je mikt. 
+
+## 3.1 
+
+![media/shoot.gif) 
+
+in 3.1 werken scores zoals het moet in de console. 
