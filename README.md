@@ -11,3 +11,8 @@ En ik heb uitgeplant wat ik wellicht moet gaan maken.
 
 ![bal](media/2.1.gif) 
 In 2.1 heb ik physics toegevoegt aan de bal zodat het botst met de grotere ballen op de grond. 
+
+## 2.2 
+![shootline](media/shootingline.gif) 
+
+In 2.2 heb ik een shooting line toegevoegd zodat je ziet waar je mikt. 
